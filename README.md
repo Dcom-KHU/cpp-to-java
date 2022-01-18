@@ -16,6 +16,14 @@
 
 2. [HackerRank](https://www.hackerrank.com/domains/java) 에서 매주 문제를 해결 한 후, `Submission`을 캡처 하여 해당 주차의 **Github Issue** 에 캡처 본을 올려 주세요.
 
+<p align="center">
+	<img src="images/01.png" width="80%"/>
+</p>
+<p align="center">
+	<img src="images/02.png" width="80%"/>
+</p>
+
+
 
 ### Lecture Note
 0. Orientation [[Link]](https://justkode.kr/java/cpp-to-java-0)
